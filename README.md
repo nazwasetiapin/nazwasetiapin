@@ -19,15 +19,22 @@ I am interested in **technological developments**, especially in programming and
 </div>
 
 
-#### 💡 
+#### 💡 Grow
 
 Technology is a way to keep growing and innovating — just like our own abilities. ✨ ****Always learning, always growing.****
 
 #### 🚀 My Github stats
 
-![Zua's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazwasetiapin&show_icons=true&theme=moltack)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazwasetiapin&show_icons=true&theme=moltack" alt="Zua's GitHub stats" height="204"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazwasetiapin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="204" alt="languages graph"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazwasetiapin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltact&hide_border=false&order=2" height="204" alt="languages graph"  />
+#### ⚡ Fun Fact
+- I can debug code faster with matcha 🍵 than without it.    
+- Sometimes I even dream about coding 😴💻  
+- I believe semicolons `;` have feelings too ❤️  
+
 
 #### 🎮 Play Games 
 
